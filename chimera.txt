@@ -1,0 +1,3 @@
+Cabeza 1: Cabra
+Cabeza 2: León
+Cabeza 3: Dragón
