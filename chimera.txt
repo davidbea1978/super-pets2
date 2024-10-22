@@ -1,3 +1,5 @@
 Cabeza 1: Cabra
-Cabeza 2: León
-Cabeza 3: Dragón
+Cabeza 2: Dragón
+Cabeza 3: León
+
+Nombre: Jaimito
